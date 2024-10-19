@@ -31,11 +31,17 @@ Design an interactive dashboard where users can filter and explore data by conte
 
                                               Outcomes
 -Identification of popular content genres, themes, and release years.
+
 -A clear understanding of the ratio of Movies to TV Shows on Netflix. For example, we might find that Netflix offers more TV shows than movies, or vice versa.
+
 -A visual representation of content production by country, showing which countries contribute the most content to Netflix’s platform. This can reveal Netflix's global strategy in acquiring or producing content from specific regions.
+
 -Insights into how the number of releases has changed over time. For instance, we might observe that Netflix’s content library grew rapidly between 2015 and 2020 as the platform expanded its production.
+
 -A deep understanding of Netflix subscribers' viewing preferences and demographics.
+
 -A framework for ongoing data-driven decision-making in the entertainment industry.
+
 
                                              Challenges
 
