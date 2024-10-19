@@ -1,16 +1,16 @@
-![Netflix Report](https://github.com/user-attachments/assets/1950c7c0-4fac-4d13-a480-e0cbf9e5edca)                                                   Introduction
+                                         Introduction
 The dataset used in this project contains information about Netflix's diverse collection of movies and TV shows. It includes key attributes such as the title, type (Movie or TV Show), release year, date added to Netflix, rating, country of origin, cast, director, and duration. The dataset also includes metadata about the genres the titles belong to, offering insights into content like children’s movies, stand-up comedy, and kids' TV shows.
-                                                   Objectives
+                                          Objectives
 * Analyze the distribution of Netflix content across different categories such as type (Movie or TV Show), release year, and ratings.
 * Identify trends in Netflix content production, such as how the duration of movies varies or how the number of TV shows has evolved over time.
 * Provide insights into how Netflix's content is distributed geographically.
 * Identify any gaps or interesting patterns, such as underrepresented countries or genres.
 
-                                                   Task
+                                           Task
 Data Cleaning:
 * Gather and preprocess the Netflix dataset, ensuring data quality and consistency.
 * Ensuring the data is free from inconsistencies or missing values. For instance, ensuring that movies have valid durations and TV shows have valid season counts.
-* we changed  the data type, replaced value, removed column
+* we changed  the data type, replaced the value, removed the column
 
 Data Import: 
 * Loading the dataset into Power BI and structuring it for analysis.
